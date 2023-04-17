@@ -2,7 +2,7 @@
 🔭 I’m currently working on Backend Projects<br>👯 I’m looking to collaborate on Software Development Projects and Academic Research<br>🌱 I’m currently learning Data Science and Machine Learning<br>
 
 
-## 🌐 Socials:
+## 🌐 Por Si Deseas Contactarme:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastianpergo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianpergo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sebastianpergo) 
 
 # 💻 Tech Stack:
